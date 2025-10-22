@@ -27,3 +27,11 @@ The goal is to identify key predictors of academic success and support early int
 Build and evaluate predictive models (Linear Regression & Decision Tree)
 
 Compare model performance and interpret feature importance
+
+# 🔗 Useful Links
+
+### 📊 Dataset: Kaggle Student Performance Dataset
+
+### 🧾 Overleaf Report: (add your shared read link here once uploaded)
+
+### 💻 GitHub Repository: [[(this repo’s URL)](https://github.com/kersha0530/education-performance-analytics/tree/main)]
