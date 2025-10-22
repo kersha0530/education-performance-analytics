@@ -34,8 +34,8 @@ Compare model performance and interpret feature importance
 
 {https://www.kaggle.com/datasets/zoya77/student-performance-and-socioeconomic-dataset}{Student Performance and Socioeconomic Dataset (Kaggle)}
 
-### 🧾 Overleaf Report: ([add your shared read link here once uploaded](https://www.overleaf.com/read/rtmywvnzhjdw#e5e90e)
+### 🧾 Overleaf Report: (https://www.overleaf.com/read/rtmywvnzhjdw#e5e90e)
 
-### 💻 GitHub Repository: [[(this repo’s URL)](https://github.com/kersha0530/education-performance-analytics/tree/main)]
+### 💻 GitHub Repository: [(https://github.com/kersha0530/education-performance-analytics/tree/main)]
 
 
