@@ -85,6 +85,29 @@ Target Variable: Grade_Average
 
 * EDA confirmed a strong positive correlation between attendance and academic outcomes.
 
+## 📸 Key Visual Insights
+
+### 1. Correlation Heatmap (Cleaned)
+Shows meaningful relationships after removing constant features.
+
+![Correlation Heatmap](visuals/correlation_heatmap_clean.png)
+
+---
+
+### 2. Feature Importance (Decision Tree Model)
+Highlights the strongest predictors of student performance.
+
+![Feature Importance](visuals/feature_importance.png)
+
+---
+
+### 3. Pairplot of Academic Relationships
+Illustrates interactions between attendance, semester average grade, and final grade.
+
+![Pairplot](visuals/pairplot_academic_relationships.png)
+
+
+
 ### 🧾 References
 
 Kaggle: Student Performance and Socioeconomic Dataset
